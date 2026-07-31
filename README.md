@@ -1,4 +1,5 @@
-<img width="1312" height="525" alt="image" src="https://github.com/user-attachments/assets/87c11425-dce9-4328-98ac-03a3d3319328" /># Chilinsight-AI-System
+# Chilinsight-AI-System
+-----------------------------
 Johnstrilians 2026
 
 
