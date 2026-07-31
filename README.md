@@ -1,6 +1,7 @@
 # Chilinsight-AI-System
------------------------------
 Johnstrilians 2026
+-----------------------------
+
 
 
 This project focuses on the application of EfficientNet-B4 and XAI (Grad-CAM) in developing a neural network model for multiclass classification of diseases in chili plants.
