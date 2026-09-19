@@ -9,7 +9,7 @@ The classes are divided into:
 1. Healthy Fruit
 2. Healthy Leaves
 3. Cercospora Leaf Spot
-4. Yellow Virus
+4. Powdery Mildew
 5. Anthracnose
 
 
