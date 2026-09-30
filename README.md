@@ -5,7 +5,6 @@ Johnstrilians, 2026
 
 Model & Dataset: 
 https://drive.google.com/drive/folders/1b07CFYEPEDIJn2fr_9Kaz0JjsvzmGK2X?hl=ID
-----------------------------
 
 This project focuses on the application of EfficientNet-B4 and XAI (Grad-CAM) in developing a neural network model for multiclass classification of diseases in chili plants.
 
