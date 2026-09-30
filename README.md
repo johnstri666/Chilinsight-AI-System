@@ -23,5 +23,13 @@ The use of CompVi Explainable AI (Grad-CAM) helps in understanding the model’s
 <img width="1317" height="554" alt="Screenshot 2026-08-01 034653" src="https://github.com/user-attachments/assets/9f486745-3cf3-4da5-98d3-2f6e4b1b72b0" />
 
 
+Model Performance
+-----------------------
+<img width="492" height="450" alt="image" src="https://github.com/user-attachments/assets/ab068107-5f45-496b-a18f-11f06feb8765" />
+Confusion Matrix
+
+<img width="786" height="334" alt="image" src="https://github.com/user-attachments/assets/f35906a4-f8bd-43ad-91d4-abeb1d0927ad" />
+Accuracy & Loss
+
 
 
