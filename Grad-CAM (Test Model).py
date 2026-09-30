@@ -236,7 +236,7 @@ plt.savefig(save_path, bbox_inches="tight", dpi=150, facecolor=fig.get_facecolor
 plt.show()
 
 print("=" * 60)
-print("  RINGKASAN")
+print("  SUMMARY")
 print("=" * 60)
 print(f"  Test Image     : {os.path.basename(image_input)}")
 print(f"  Prediction       : {pred_label}")
